@@ -22,4 +22,4 @@ How to use:
 5. Run the file, when you see "Bot ready." in your terminal in your IDE you can start using the bot in your Discord. (The bot will be online in your Discord, this way you know he is ready to answer your hot questions/inquiries.).
 
 
-Note: If you decide to use/inspire yourself using our group's project don't forget to leave a reference to us as we did to the people we got inspired from. :}  ~ Hope it helped, Tom.
+Note: If you decide to use/inspire yourself using our group's project don't forget to leave a reference to us as we did to the people we got inspired from. :}  ~ Hope it helped,Afonso.
