@@ -3,7 +3,6 @@ import json
 
 headers = {
     'x-rapidapi-host': "the-cocktail-db.p.rapidapi.com",
-    'x-rapidapi-key': "540add6831msh2be37097a5ac45ap187522jsn439eee457bc9"
 }
 
 def httpRequest(pathname, params=()):
