@@ -175,5 +175,3 @@ async def on_message(message):          # <<<< on_message function dicovered fro
             await message.channel.send('___________')
             await message.channel.send('~' + randomCocktail())
 
-# Run bot with this ID
-client.run('NjMxNDk2NTc1OTMxMTIxNjk0.XZ4SDQ.GAkS4ucOyN9v5Dd1617tMr-EzDo')
